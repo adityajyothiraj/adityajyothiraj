@@ -3,11 +3,11 @@
 Hi there! I'm ADITYA K J, aN Embedded Systems developer.
 Ask me about Arduino, ESP8266, ESP32.
 
-- 🔭 I’m currently working on Embedded Syetems
-- 🌱 I’m currently learning about RTOS & other wide possibilities of these development board in real world.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Arduino,Esp32, Esp8266.
-- 📫 How to reach me: adityajyothiraj@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on Embedded Systems
+🌱 I’m currently learning about RTOS (Real-Time Operating Systems) and exploring the wide range of possibilities for development boards like Arduino, ESP32, and ESP8266 in real-world applications.
+
+🤔 I’m looking for help with optimizing real-time tasks, connecting sensors to IoT platforms, and troubleshooting complex embedded system issues.
+
+💬 Ask me about Arduino, ESP32, ESP8266, and their applications in automation, IoT, and low-power devices.
+
+📫 How to reach me: adityajyothiraj@gmail.com
