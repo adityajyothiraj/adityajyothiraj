@@ -29,7 +29,7 @@ I’m currently working on Embedded Systems
 
 # 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajyothiraj&show_icons=true&hide_title=true&theme=dark)<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajyothiraj)<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajyothiraj&theme=dark)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajyothiraj&layout=compact&theme=dark&langs_count=5)
 
 # 🏆 GitHub Trophies
