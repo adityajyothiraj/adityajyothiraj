@@ -32,14 +32,14 @@ I’m currently working on Embedded Systems
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajyothiraj&theme=dark)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajyothiraj&layout=compact&theme=dark&langs_count=5)
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=adityajyothiraj)
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 
 ![innovation_is_the_ability_to (1) (1)](https://github.com/user-attachments/assets/eb8b1026-5c2e-4f5e-9d4d-116ae6b69709)
 
-## 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajyothiraj&show_icons=true&hide_title=true&count_private=true)
 
