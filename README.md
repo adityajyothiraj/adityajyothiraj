@@ -1,4 +1,4 @@
-## HI IAM ADITYA KJ: 👋
+# 👋 HI I'AM ADITYA K J: 
 
 Hi there! I'm ADITYA K J, an Embedded Systems Developer.
 Ask me about Arduino, ESP8266, ESP32.
