@@ -21,6 +21,8 @@ I’m currently working on Embedded Systems
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
 [![Espressif IDF](https://img.shields.io/badge/Espressif_IDF-6600FF?style=for-the-badge&logo=esp32&logoColor=white)](https://docs.espressif.com/projects/esp-idf/en/latest/)
+[![Proteus](https://img.shields.io/badge/Proteus-Active-0091D5?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.proteus.com)
+[![EasyEDA](https://img.shields.io/badge/EasyEDA-Design-FF6F00?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
