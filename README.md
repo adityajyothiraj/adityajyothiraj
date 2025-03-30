@@ -14,6 +14,8 @@ I’m currently working on Embedded Systems
 
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jyothiraj)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FB7A01?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/adityajyothiraj)
+
 
 # 💻 Tech Stack:
 [![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
