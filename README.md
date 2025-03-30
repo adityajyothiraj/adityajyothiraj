@@ -1,6 +1,6 @@
 ## HI IAM ADITYA KJ: 👋
 
-Hi there! I'm ADITYA K J, aN Embedded Systems developer.
+Hi there! I'm ADITYA K J, an Embedded Systems Developer.
 Ask me about Arduino, ESP8266, ESP32.
 
 I’m currently working on Embedded Systems
@@ -11,3 +11,6 @@ I’m currently working on Embedded Systems
 💬 Ask me about Arduino, ESP32, ESP8266, and their applications in automation, IoT, and low-power devices.
 
 📫 How to reach me: adityajyothiraj@gmail.com
+
+# Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jyothiraj)
