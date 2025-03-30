@@ -15,7 +15,7 @@ I’m currently working on Embedded Systems
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jyothiraj)
 
-# 💻 Tech Stacks:
+# 💻 Tech Stack:
 [![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org)
