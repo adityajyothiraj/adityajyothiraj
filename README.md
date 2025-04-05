@@ -13,8 +13,11 @@ I’m currently working on Embedded Systems
 📫 How to reach me: adityajyothiraj@gmail.com
 
 # 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jyothiraj)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FB7A01?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/adityajyothiraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jyothiraj)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FB7A01?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/adityajyothiraj)
+[![Reddit](https://img.shields.io/badge/Reddit-Active-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/adityajyothiraj)
+
+
 
 
 # 💻 Tech Stack:
